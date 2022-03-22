@@ -1,0 +1,19 @@
+ .body {
+	background-color: skyblue;
+
+
+}
+.mainCol {
+	background-color: lightgray;
+	border-style: solid;
+  	border-width: 2px;
+  	height:  200px;
+  	text-align: justify;
+  	align-content: center;
+  	display: flex;
+  	align-items: center;
+  	padding: 2px;
+  	top: 300px;
+  	left: 200px;
+  	font-family: sans-serif;
+}
