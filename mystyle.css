@@ -1,7 +1,21 @@
 .navbar-expand-md  {
 	background: lightgrey;
 }
-.telNr {
 
 
+.fs {
+	position: relative;
+	min-height: calc(100vh - 78px);
+	background-color: lightblue;
 }
+
+.ss {
+	position: relative;
+	min-height: calc(100vh - 76px);
+	background-color:bisque;
+}
+
+.text-capitalize {
+	text-transform: capitalize !important;
+}
+
