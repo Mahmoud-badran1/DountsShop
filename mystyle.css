@@ -3,6 +3,7 @@
 }
 
 
+<<<<<<< HEAD
 
 .navHeader {
 	background-color: white;
@@ -37,3 +38,21 @@
 /*
 Todo cahgne the pic 
 */
+=======
+.fs {
+	position: relative;
+	min-height: calc(100vh - 78px);
+	background-color: lightblue;
+}
+
+.ss {
+	position: relative;
+	min-height: calc(100vh - 76px);
+	background-color:bisque;
+}
+
+.text-capitalize {
+	text-transform: capitalize !important;
+}
+
+>>>>>>> 19769efbc395965264882e5e2ee234e5d3782331
