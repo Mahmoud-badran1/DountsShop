@@ -2,9 +2,6 @@
 	background: lightgrey;
 }
 
-
-<<<<<<< HEAD
-
 .navHeader {
 	background-color: white;
 }
@@ -31,14 +28,13 @@
 	min-height: calc(100vh - 76px);
   	background-repeat: no-repeat;
 	background: linear-gradient(var(--yellowTrans), var(--yellowTrans)), cetner;
-	background-image: url("../DountsShop/img/headerBcg.jpeg") ;
+	background-image: url("../DountsShop/img/headerBcg.jpeg")  ;
 }
 
 
 /*
 Todo cahgne the pic 
 */
-=======
 .fs {
 	position: relative;
 	min-height: calc(100vh - 78px);
@@ -55,4 +51,3 @@ Todo cahgne the pic
 	text-transform: capitalize !important;
 }
 
->>>>>>> 19769efbc395965264882e5e2ee234e5d3782331
